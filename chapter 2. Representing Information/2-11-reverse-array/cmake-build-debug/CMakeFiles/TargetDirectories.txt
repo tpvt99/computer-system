@@ -1,0 +1,3 @@
+D:/GitHub/computer-system/chapter 2. Representing Information/2-11-reverse-array/cmake-build-debug/CMakeFiles/2_11_reverse_array.dir
+D:/GitHub/computer-system/chapter 2. Representing Information/2-11-reverse-array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/computer-system/chapter 2. Representing Information/2-11-reverse-array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

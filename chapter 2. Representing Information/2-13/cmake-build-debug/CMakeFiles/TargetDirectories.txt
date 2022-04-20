@@ -1,0 +1,3 @@
+D:/GitHub/computer-system/chapter 2. Representing Information/2-13/cmake-build-debug/CMakeFiles/2_13.dir
+D:/GitHub/computer-system/chapter 2. Representing Information/2-13/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/computer-system/chapter 2. Representing Information/2-13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
